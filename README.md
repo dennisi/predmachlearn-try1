@@ -1,6 +1,7 @@
 predmachlearn-try1
 ==================
 try to update and commit back to GitHubtry to update and commit back to GitHub<<<<<<< HEAD
+<<<<<<< HEAD
 try to update and commit back to GitHub
 =======
 this was empty, adding via GitHub web interface...
